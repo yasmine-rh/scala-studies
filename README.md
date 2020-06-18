@@ -1,0 +1,2 @@
+# scala-studies
+learning scala
