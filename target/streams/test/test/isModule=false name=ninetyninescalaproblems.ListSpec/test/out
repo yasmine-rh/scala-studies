@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mListSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mlast[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return an exception when input is an empty list[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return first element of list if length is 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return last element of list when length is greater than one[0m[0m
+[0m[[0minfo[0m] [0m[32mpenultimate[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return an exception when input is an empty list[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return an exception when input is a list less than 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return second to last element of list when length is greater than 2[0m[0m
+[0m[[0minfo[0m] [0m[32mnth[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return an exception when input is an empty list[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return an exception when input n input is greater than length of list[0m[0m
+[0m[[0minfo[0m] [0m[32m- Should return nth element of list when index provided is less than or equal to length of list[0m[0m

@@ -1,0 +1,195 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$3.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$2.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$3.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$4$$anonfun$apply$4.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$4.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$5$$anonfun$apply$1.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$5.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$6.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$7$$anonfun$apply$5.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$7.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$8$$anonfun$apply$2.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$8.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$9.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3.class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec.class
+binary dependencies:
+4 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.8.jar
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> /Users/yasmin.mahmoud/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+1 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.Lists
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$1
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$1
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$3
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$2
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$3
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$2
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$4
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$4$$anonfun$apply$4
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$5
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$5$$anonfun$apply$1
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$6
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$3
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$7
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$7$$anonfun$apply$5
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$8
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$8$$anonfun$apply$2
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems.ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$9
+used names:
+58 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> $org_scalatest_assert_macro_expr
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> $org_scalatest_assert_macro_left
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> $org_scalatest_assert_macro_right
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> <byname>
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> <init>
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> <repeated>
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ==
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> A
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Any
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> AnyRef
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Assertion
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> AssertionsHelper
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Bool
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Boolean
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Class
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ClassTag
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> FunSpec
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> IndexOutOfBoundsException
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Int
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ItWord
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> List
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ListSpec
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Lists
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Nil
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> NoSuchElementException
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Nothing
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Position
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Predef
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Prettifier
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> String
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> T
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Tag
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> Unit
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> _$7
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> apply
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> assert
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> assertThrows
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> assertionsHelper
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> binaryMacroBool
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> default
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> describe
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> here
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> immutable
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> it
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> java
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> last
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> macroAssert
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> materializeClassTag
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> ninetyninescalaproblems
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> nth
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> org
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> package
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> penultimate
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> scala
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> scalactic
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> scalatest
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> source
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> util
+product stamps:
+18 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$apply$3.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$2.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1$$anonfun$apply$mcV$sp$3.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$1.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$4$$anonfun$apply$4.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$4.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$5$$anonfun$apply$1.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$5.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2$$anonfun$apply$mcV$sp$6.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$2.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$7$$anonfun$apply$5.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$7.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$8$$anonfun$apply$2.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$8.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3$$anonfun$apply$mcV$sp$9.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec$$anonfun$3.class -> lastModified(1593211290000)
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/target/scala-2.11/test-classes/ninetyninescalaproblems/ListSpec.class -> lastModified(1593211290000)
+source stamps:
+1 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> hash(62b64c6c32ec4ed644fc93c1c8ac0f5f551d0f14)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1571493954000)
+/Users/yasmin.mahmoud/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/Users/yasmin.mahmoud/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.8.jar -> lastModified(1560174861000)
+/Users/yasmin.mahmoud/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.8.jar -> lastModified(1560174911000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar -> java.util.NoSuchElementException
+/Users/yasmin.mahmoud/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.immutable.List
+/Users/yasmin.mahmoud/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.8.jar -> org.scalactic.Prettifier
+/Users/yasmin.mahmoud/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.8.jar -> org.scalatest.FunSpec
+internal apis:
+1 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYp0KbgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBe4Hj5dAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALMo0dY3QAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAGlzcQB+AAsSSO4edAAGYXNzZXJ0c3EAfgALjJg393QAB3N1Y2NlZWRzcQB+AAs59IaCdAAGbm90aWZ5c3EAfgALQ4NarnQAJmxvd1ByaW9yaXR5Q29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALxbSddHQAEEFzc2VydGlvbnNIZWxwZXJzcQB+AAsZ4YvKdAAGY2FuY2Vsc3EAfgALaIPedHQAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgAL/sTeaHQACWludGVyY2VwdHNxAH4ACy58cGV0AARmYWlsc3EAfgALJtwt03QABG5hbWVzcQB+AAsjxHA4dAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAvx9BasdAARZXhlY3V0ZSRkZWZhdWx0JDRzcQB+AAvfI75BdAAITGlzdFNwZWNzcQB+AAvLJvQ5dAAHZXhlY3V0ZXNxAH4AC0M9adJ0AAR3YWl0c3EAfgALUnOwnHQAC3Rlc3REYXRhRm9yc3EAfgALfLIk83QAE2NyZWF0ZUNhdGNoUmVwb3J0ZXJzcQB+AAtJGWPvdAAJc3R5bGVOYW1lc3EAfgALyDb3xXQADSRhc0luc3RhbmNlT2ZzcQB+AAv/VV1/dAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAt8NlZndAAJY29uZmlnTWFwc3EAfgALghMcWnQABmVxdWFsc3NxAH4AC/0qXdB0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC/9QiT10AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAu7oOhydAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4ACw0Gg110AARtdXN0c3EAfgALymwDnHQABHRhZ3NzcQB+AAvjnDCTdAAMYXNJbnN0YW5jZU9mc3EAfgAL6uE8rnQABWFsZXJ0c3EAfgALIcEsV3QAA3J1bnNxAH4ACyocyK90AAZzY29wZXNzcQB+AAuw0GE1dAADcG9zc3EAfgAL/EXcOXQADHN5bmNocm9uaXplZHNxAH4ACwcJKE90AAJpdHNxAH4AC5m9xXh0AA5hc3NlcnRDb21waWxlc3NxAH4ACxmmLMt0AAxhc3NlcnRUaHJvd3NzcQB+AAvHOWWCdAANJGlzSW5zdGFuY2VPZnNxAH4AC0B+NxF0AAR0cmFwc3EAfgAL6QAfMHQAFXRlc3REYXRhRm9yJGRlZmF1bHQkMnNxAH4AC/zRO/l0AAxhc3NlcnRSZXN1bHRzcQB+AAvl8soCdAAEdGV4dHNxAH4AC20BMzZ0ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC7gmetd0AAhkZXNjcmliZXNxAH4AC9XF6ix0AAR0aGV5c3EAfgALodOpSnQAEWV4ZWN1dGUkZGVmYXVsdCQ3c3EAfgALkOJdt3QAFXR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC9O2+FN0AAMhPT1zcQB+AAvfS/hBdAAEaW5mb3NxAH4AC32mQ1h0AAlub3RpZnlBbGxzcQB+AAu3qZTxdAALd2l0aEZpeHR1cmVzcQB+AAsQ92XxdAAHcnVuVGVzdHNxAH4AC8ALO0t0AAxpc0luc3RhbmNlT2ZzcQB+AAuTSUUjdAAId2l0aENsdWVzcQB+AAtflys7dAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4AC+KbdQx0ABFleGVjdXRlJGRlZmF1bHQkNnNxAH4AC7TfPTZ0AA9hc3NlcnRUeXBlRXJyb3JzcQB+AAuObG76dAAGbWFya3Vwc3EAfgALb/5sXnQACGxlZnRTaWRlc3EAfgALcSz/AnQABjxpbml0PnNxAH4ACyA22kl0AAttYWNyb0Fzc3VtZXNxAH4AC4qeEbN0AA9ydW5OZXN0ZWRTdWl0ZXNzcQB+AAvM4t4KdAAGSXRXb3Jkc3EAfgALosmJAXQABWFwcGx5c3EAfgALOqzxw3QACUVxdWFsaXplcnNxAH4ACz/9vFt0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAufButjdAAEbm90ZXNxAH4AC9+iVjt0AAI9PXNxAH4AC968jRd0AAVjbG9uZXNxAH4AC7fQgMN0AAZzaG91bGRzcQB+AAvOY/SgdAAMbmVzdGVkU3VpdGVzc3EAfgALsfbJF3QABmFzc3VtZXNxAH4ACzuYBHZ0AAYkaW5pdCRzcQB+AAupgwKldAAgbG93UHJpb3JpdHlUeXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAtuMt1VdAAIVGhleVdvcmRzcQB+AAsd6c9idAAMcmVnaXN0ZXJUZXN0c3EAfgALxhuo9HQAEWV4ZWN1dGUkZGVmYXVsdCQ1c3EAfgALAzPycnQAAz09PXNxAH4AC4lGvYZ0ABhuZXdUZXN0Q2FuY2VsZWRFeGNlcHRpb25zcQB+AAs+tDfadAAIdG9TdHJpbmdzcQB+AAtHy1Z4dAAJdGVzdE5hbWVzc3EAfgALdMHtlXQAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALSP9HN3QAAiE9c3EAfgAL+0z+6nQACGdldENsYXNzc3EAfgAL4w8D0HQAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAtTuSRBdAAGYmVoYXZlc3EAfgALYw69enQACHJ1blRlc3Rzc3EAfgALcQRsi3QAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALTOCGhHQAEWV4cGVjdGVkVGVzdENvdW50c3EAfgAL/qxyR3QACHJlcnVubmVyc3EAfgALhIxCmnQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnN0cmFpbnRzcQB+AAtHWlQ9dAACbmVzcQB+AAu6fmZGdAAOc291cmNlRmlsZU5hbWVzcQB+AAsqz2/+dAARQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAutPewLdAAHcGVuZGluZ3NxAH4AC4rWeQN0AAZpZ25vcmVzcQB+AAu/nLjvdAALbWFjcm9Bc3NlcnRzcQB+AAuf2YaGdAACZXFzcQB+AAsL3XBldAAaY29udmVydFRvQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAtszLEAdAAJTm9BcmdUZXN0c3EAfgAL/mKHS3QAAiMjc3EAfgALx//l9XQACGZpbmFsaXplc3EAfgALTalkz3QAG2NvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4ACziIwcB0AAhoYXNoQ29kZXNxAH4AC3RXSLF0AAdzdWl0ZUlkc3EAfgALQRu+PXQACXN1aXRlTmFtZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AO14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACBuaW5ldHluaW5lc2NhbGFwcm9ibGVtcy5MaXN0U3BlY3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ACdzY2FsYS5yZWZsZWN0Lm1hY3Jvcy5pbnRlcm5hbC5tYWNyb0ltcGxzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BB3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDtTAAJaW5oZXJpdGVkcQB+AO1MAAdwYXJlbnRzcQB+AO14cQB+AQxzcQB+AQd1cQB+AOgAAAAAc3EAfgEHdXEAfgDoAAAAAHNxAH4BB3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAQc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BC3QAB0Z1blNwZWNzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AQtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4BJHQACXNjYWxhdGVzdHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgElc3EAfgEYdAALRnVuU3BlY0xpa2VxAH4BHnNxAH4BGHQAC0RvY3VtZW50aW5ncQB+AR5zcQB+ARh0AAhBbGVydGluZ3EAfgEec3EAfgEYdAAJTm90aWZ5aW5ncQB+AR5zcQB+ARh0AAlJbmZvcm1pbmdxAH4BHnNxAH4BGHQAEFRlc3RSZWdpc3RyYXRpb25xAH4BHnNxAH4BGHQACVRlc3RTdWl0ZXEAfgEec3EAfgEYdAAFU3VpdGVxAH4BHnNxAH4BGHQADFNlcmlhbGl6YWJsZXNxAH4BHHNxAH4BH3VxAH4BIgAAAAJzcQB+ASR0AAVzY2FsYXEAfgErc3EAfgEYcQB+AT1zcQB+ARxzcQB+AR91cQB+ASIAAAADc3EAfgEkdAAEamF2YXNxAH4BJHQAAmlvcQB+AStzcQB+ARh0AApBc3NlcnRpb25zcQB+AR5zcQB+ARh0AAxUcmlwbGVFcXVhbHNzcQB+ARxzcQB+AR91cQB+ASIAAAADc3EAfgEkdAADb3Jnc3EAfgEkdAAJc2NhbGFjdGljcQB+AStzcQB+ARh0ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AU9zcQB+ARh0AAZPYmplY3RzcQB+ARxzcQB+AR91cQB+ASIAAAADc3EAfgEkcQB+AUhzcQB+ASR0AARsYW5ncQB+AStzcQB+ARh0AANBbnlxAH4BPnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAF25pbmV0eW5pbmVzY2FsYXByb2JsZW1zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFy8ssAhXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFkvVXNlcnMveWFzbWluLm1haG1vdWQvRGVza3RvcC9zY2FsYS1zdHVkaWVzL2xlYXJuaW5nLXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL3Rlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGK2TGwy7E7WRPyTwcisD19VHQ8U
+external apis:
+1 items
+ninetyninescalaproblems.Lists -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw/l3EAQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7gAWlHQAFHBlbnVsdGltYXRlUmVjdXJzaXZlc3EAfgAMUHbLk3QABm5vdGlmeXNxAH4ADOZbqWx0AAVMaXN0c3NxAH4ADKadmF90AAR3YWl0c3EAfgAMtFZQanQADSRhc0luc3RhbmNlT2ZzcQB+AAzUrCGTdAAGZXF1YWxzc3EAfgAMjUfejnQADGFzSW5zdGFuY2VPZnNxAH4ADALGPsV0AA5leGVjdXRpb25TdGFydHNxAH4ADD9VMLd0AAxzeW5jaHJvbml6ZWRzcQB+AAxb6jKndAANJGlzSW5zdGFuY2VPZnNxAH4ADKTQCt90AARtYWluc3EAfgAMJsD9tHQABGxhc3RzcQB+AAxh33ohdAAJbm90aWZ5QWxsc3EAfgAM9MR9wnQADGlzSW5zdGFuY2VPZnNxAH4ADD5poFd0AAY8aW5pdD5zcQB+AAyLqUe2dAACPT1zcQB+AAyDtPlvdAAFY2xvbmVzcQB+AAyXGH8mdAAGJGluaXQkc3EAfgAMeNaw5HQAA250aHNxAH4ADCUKADl0AAh0b1N0cmluZ3NxAH4ADLw+/mZ0AARhcmdzc3EAfgAMzXD57nQABmxlbmd0aHNxAH4ADBqTEvx0AAIhPXNxAH4ADK7Nn7l0AAhnZXRDbGFzc3NxAH4ADC+5iL90AAJuZXNxAH4ADMNRqzl0AAtwZW51bHRpbWF0ZXNxAH4ADEkEF/p0AAJlcXNxAH4ADFsb4mF0AAtkZWxheWVkSW5pdHNxAH4ADAx36yB0AAIjI3NxAH4ADLqhnSt0AAhmaW5hbGl6ZXNxAH4ADLlEwg50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB1uaW5ldHluaW5lc2NhbGFwcm9ibGVtcy5MaXN0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBwc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdXNxAH4AcHVxAH4AUAAAAABzcQB+AHB1cQB+AFAAAAAAc3EAfgBwdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB0dAADQXBwc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCOc3EAfgCBdAALRGVsYXllZEluaXRxAH4Ah3NxAH4AgXQABk9iamVjdHNxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAAEbGFuZ3EAfgCSc3EAfgCBdAADQW55cQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABduaW5ldHluaW5lc2NhbGFwcm9ibGVtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcvLK9Ah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABUL1VzZXJzL3lhc21pbi5tYWhtb3VkL0Rlc2t0b3Avc2NhbGEtc3R1ZGllcy9sZWFybmluZy1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU3CLv3nS6XihrJJiTTn3hCHf9gvI=
+source infos:
+1 items
+/Users/yasmin.mahmoud/Desktop/scala-studies/learning-scala/src/test/scala/ninetyninescalaproblems/ListSpec.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcuhoew11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy95YXNtaW4ubWFobW91ZC9EZXNrdG9wL3NjYWxhLXN0dWRpZXMvbGVhcm5pbmctc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcvLH8K51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy95YXNtaW4ubWFobW91ZC9EZXNrdG9wL3NjYWxhLXN0dWRpZXMvbGVhcm5pbmctc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcvLLAIV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9Vc2Vycy95YXNtaW4ubWFobW91ZC9EZXNrdG9wL3NjYWxhLXN0dWRpZXMvbGVhcm5pbmctc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABLw==
