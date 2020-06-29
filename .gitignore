@@ -1,0 +1,60 @@
+### SBT ###
+# Simple Build Tool
+# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
+
+target/
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
+web/logs/
+test-output
+
+# eclipse
+workbench.xmi
+.project
+.settings
+.classpath
+.metadata
+*.eml
+*.userlibraries
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+/*.iml
+
+## Directory-based project format:
+.idea/
+# if you remove the above rule, at least ignore the following:
+
+
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+
+
+#vim swp
+*.swp
+
+.DS_Store
+
+*.iml
+
+
+logs/
+*.log
+.ensime*
+
+*.sc
