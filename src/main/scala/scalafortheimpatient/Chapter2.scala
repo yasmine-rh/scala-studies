@@ -10,6 +10,7 @@ def value (int: Int): Int = {
   else if ( int > 0) 1
   else 0
 }
+  value(2)
 //2. What is the value of an empty block expression {}? What is its type?
   //Value = () and the type is Unit
 //3. Come up with one situation where the assignment x = y = 1 is valid in Scala.
@@ -20,15 +21,18 @@ def value (int: Int): Int = {
     x = y = 1
 
   }
+  assignment()
 //4. Write a Scala equivalent for the Java loop
 //for (int i = 10; i >= 0; i--) System.out.println(i);
   def scalaEquivalent(): Unit = {
   for (i <-10 to (0,-1)) println(i)
 }
+  scalaEquivalent()
 //5. Write a procedure countdown(n: Int) that prints the numbers from n to 0.
   def proCountdown(n: Int): Unit = {
     for (i <- n to (0, -1)) println(i)
   }
+  proCountdown(3)
 //6. Write a for loop for computing the product of the Unicode codes of all letters
 //in a string. For example, the product of the characters in "Hello" is 825152896.
   def unicodeProduct(str: String): Int = {
@@ -36,17 +40,18 @@ def value (int: Int): Int = {
   for (character <- str) result *= character.toInt
   result
 }
+  unicodeProduct("Hello")
 //7. Solve the preceding exercise without writing a loop. (Hint: Look at the StringOps
 //Scaladoc.)
-  def fxnProduct(s: String): Int = {
-  s.map(._toInt).product
-}
+//  def fxnProduct(s: String): Int = {
+//  s.map(._toInt).product
+//}
 
 //8. Write a function product(s : String) that computes the product, as described
 //in the preceding exercises.
-  def product(s: String): Int {
-productLoops(s)
-}
+//  def product(s: String): Int {
+//productLoops(s)
+//}
 //9. Make the function of the preceding exercise a recursive function.
 //10. Write a function that computes x
 //n
