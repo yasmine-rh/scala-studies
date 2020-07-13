@@ -49,7 +49,11 @@ class Chapter1 extends App {
 //  This operation
 //  5. Max finds largest element in list and is defined in the RichInt class
 //  6. import scala.math._
-//  7.
-
-
+//  7.import util.Random
+//  8.
+//  9. Use charAt(whichever_index_number)
+//  10. take => returns n characters provided
+//        drop => drops first n characters
+//        takeRight => returns last n characters from right
+//          dropRight => drops last n characters from right
 }
