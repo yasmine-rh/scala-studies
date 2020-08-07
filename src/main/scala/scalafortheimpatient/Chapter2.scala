@@ -43,9 +43,10 @@ def value (int: Int): Int = {
   unicodeProduct("Hello")
 //7. Solve the preceding exercise without writing a loop. (Hint: Look at the StringOps
 //Scaladoc.)
-//  def fxnProduct(s: String): Int = {
-//  s.map(._toInt).product
-//}
+  def fxnProduct(s: String): Int = {
+  s.map(_.toLong).product.toInt
+}
+ fxnProduct("Hello")
 
 //8. Write a function product(s : String) that computes the product, as described
 //in the preceding exercises.
@@ -53,6 +54,12 @@ def value (int: Int): Int = {
 //productLoops(s)
 //}
 //9. Make the function of the preceding exercise a recursive function.
+ def product2(s: String): Int = {
+  if (s.length > 0) {
+    product2(s.tail) * s.head.toInt
+
+  } else 1
+}
 //10. Write a function that computes x
 //n
 //, where n is an integer. Use the following

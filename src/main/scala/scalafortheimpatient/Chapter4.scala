@@ -99,7 +99,7 @@ println(weekdaysLinkedHashMap())
 //java.vm.name | Java HotSpot(TM) Server VM
 //You need to find the length of the longest key before you can print the table.
 
-  def printJavaProperties(): List[String] = {
+  def printJavaProperties():Unit = {
     val props: collection.Map[String, String] = System.getProperties
     val longestKeyLen = props.foldLeft(0)(maxLen, entry) => {
 

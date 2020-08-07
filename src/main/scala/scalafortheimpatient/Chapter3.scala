@@ -5,9 +5,10 @@ import scala.collection.mutable._
 import scala.collection.JavaConversions.bufferAsJavaList
 import scala.collection.mutable.ArrayBuffer
 import scala.collection.JavaConversions.asScalaBuffer
-import scala.collection.mutable.Buffer
 import java.awt.datatransfer._
 import java.util.TimeZone
+
+import scala.collection.parallel.mutable
 
 class Chapter3 {
 
@@ -29,9 +30,9 @@ class Chapter3 {
 
   def swapElem(arr: Array[Int]): Array[Int] = {
     for (i <- 1 until arr.length if (i % 2)!= 0) {
-      val plchldr = arr(i - 1)
+      val plcHldr = arr(i - 1)
       arr(i -1 ) = arr(i)
-      arr(i) = plchldr
+      arr(i) = plcHldr
     }
     arr
   }
@@ -83,7 +84,10 @@ def swapElemYield(arr: Array[Int]) = {
 //  6. How do you rearrange the elements of an Array[Int] so that they appear in
 //    reverse sorted order? How do you do the same with an ArrayBuffer[Int]?
 
-
+def sortReverse(arr: Array[Int]): Array[Int] = {
+  arr.sortWith(_>_)
+}
+  sortReverse(Array(1,34,1,44,56,2,3,6))
 //  7. Write a code snippet that produces all values from an array with duplicates
 //  removed. (Hint: Look at Scaladoc.)
 val arr = Array(1,34,1,44,56,2,3,6)
@@ -104,16 +108,30 @@ def dropNegExceptFirst(arr: ArrayBuffer[Int]): ArrayBuffer[Int] = {
 
 //  9. Make a collection of all time zones returned by java.util.TimeZone.getAvailableIDs
 //  that are in America. Strip off the "America/" prefix and sort the result.
-//def timeZone: Array[String] = {
-//  TimeZone.getAvailableIDs().filter(_.startsWith("America/"))
-//  map(.stripPrefix("America/"))
-//}
+
+  def usTimeZones(): Array[String] = {
+    java.util.TimeZone.getAvailableIDs.filter(_.startsWith("America/")).map(_.stripPrefix("America/")).sorted.take(6)
+  }
+  usTimeZones()
 //  10. Import java.awt.datatransfer._ and make an object of type SystemFlavorMap with
 //  the call
-  val flavors = SystemFlavorMap.getDefaultFlavorMap().asInstanceOf[SystemFlavorMap]
+//  val flavors = SystemFlavorMap.getDefaultFlavorMap().asInstanceOf[SystemFlavorMap]
 //  Then call the getNativesForFlavor method with parameter DataFlavor.imageFlavor
 //  and get the return value as a Scala buffer. (Why this obscure class? It’s hard
 //    to find uses of java.util.List in the standard Java library.)
-  val flavMap = SystemFlavorMap.getDefaultFlavorMap().asInstanceOf[SystemFlavorMap]
-  val nativeFlav = flavMap.getNativesForFlavor(DataFlavor.imageFlavor)
+//  val flavMap = SystemFlavorMap.getDefaultFlavorMap().asInstanceOf[SystemFlavorMap]
+//  val nativeFlav = flavMap.getNativesForFlavor(DataFlavor.imageFlavor)
+
+
+  object FlavorMapEx {
+    def imageFlavors(): ArrayBuffer[String] = {
+      import java.awt.datatransfer._
+      import scala.collection.JavaConverters._
+
+      val flavors = SystemFlavorMap.getDefaultFlavorMap().asInstanceOf[SystemFlavorMap]
+
+      val nativeFlav = flavMap.getNativesForFlavor(DataFlavor.imageFlavor).asScala
+    }
+
+  }
 }

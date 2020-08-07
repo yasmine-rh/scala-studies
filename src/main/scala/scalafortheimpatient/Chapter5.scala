@@ -15,7 +15,7 @@ val cntr = new Counter(Int.MaxValue -1)
 //  2. Write a class BankAccount with methods deposit and withdraw, and a read-only
 //  property balance.
   class BankAcct {
-    private var balance: Double = 0.0
+    var balance: Double = 0.0
     def deposit(amt: Double): Unit = {
       if (amt > 0.0) balance += amt
     }
@@ -33,11 +33,22 @@ val cntr = new Counter(Int.MaxValue -1)
 //    before(other: Time): Boolean that checks whether this time comes before the
 //  other. A Time object should be constructed as new Time(hrs, min), where hrs is in
 //    military time format (between 0 and 23).
-   class Time
+   class Time(private val hours: Int, private val minutes: Int) {
+    def before(other: Time): Boolean = {
+      if (hours < other.hours) true
+      else if (hours == other.hours && minutes < other.minutes) true
+      else false
+    }
+  new Time(12,23).before(new Time(22,12))
+  new Time(10,23).before(new Time(12,12))
+  new Time(24,23).before(new Time(20,12))
+
+}
 //  4. Reimplement the Time class from the preceding exercise so that the internal
 //    representation is the number of minutes since midnight (between 0 and
 //  24 × 60 – 1). Do not change the public interface. That is, client code should be
 //    unaffected by your change.
+
 //  5. Make a class Student with read-write JavaBeans properties name (of type String)
 //  and id (of type Long). What methods are generated? (Use javap to check.) Can
 //  you call the JavaBeans getters and setters in Scala? Should you?
