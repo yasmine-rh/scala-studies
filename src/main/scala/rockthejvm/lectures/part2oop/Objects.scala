@@ -41,4 +41,24 @@ object Objects extends App {
   //only a scala obj with a very important method
   //def main(args: Array[String]): Unit
 
+  /* Takeaways
+
+  scala doesn't have "static" methods/values
+
+  SCALA OBJECTS
+   - are their own class
+   - are the only instance
+   - singleton pattern in one line!
+
+   SCALA COMPANIONS
+   - can access each other's private members
+   - scala is more oo than java!
+
+   SCALA APPLICATIONS
+   def main(args: Array[String]): Unit
+   object MyApp extends AppType {}
+
+
+   */
+
 }
