@@ -99,12 +99,23 @@ println(weekdaysLinkedHashMap())
 //java.vm.name | Java HotSpot(TM) Server VM
 //You need to find the length of the longest key before you can print the table.
 
+  //properties are a hashtable, so when mapping over a hashtable
+  //key value pairs
+  //what kind of partial fxn is .map expecting from hashmap => key, value pair
+  //extends Hashtable<Object,Object>
   def printJavaProperties():Unit = {
-    val props: collection.Map[String, String] = System.getProperties
-    val longestKeyLen = props.foldLeft(0)(maxLen, entry) => {
+for((k,v) <-  java.lang.System.getProperties) {
+  println((k).toString + (v).toString)
+  //println calls toString automatically
+}
+  //looping over getProperties and pulling out tuple k,v
+    // pattern matching and for comp combo
+  //pattern is 2 elem tuple
+  //object looping across is getProperties
 
-    }
-  }
+  //typically use for comp to build your table
+
+}
 //8. Write a function minmax(values: Array[Int]) that returns a pair containing the
 //smallest and largest values in the array.
   def minMax(values: Array[Int])= (values.min, values.max)
@@ -119,8 +130,8 @@ println(weekdaysLinkedHashMap())
 
 //10. What happens when you zip together two strings, such as "Hello".zip("World")?
 //Come up with a plausible use case.
-"Hello".zip("world")
-  IndexedSeq[(Char, Char)] = Vector(('H', 'w'), ('e', 'o'), ('l', 'r'), ('l', 'l'), ('o', 'd'))
+//"Hello".zip("world")
+//  IndexedSeq[(Char, Char)] = Vector(('H', 'w'), ('e', 'o'), ('l', 'r'), ('l', 'l'), ('o', 'd'))
 
   //This could be useful if characters needed to be compared
 // */

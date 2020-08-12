@@ -1,5 +1,9 @@
 package scalafortheimpatient
 
+import javax.print.attribute.standard.PrinterMoreInfoManufacturer
+
+import scala.beans.BeanProperty
+
 class Chapter5 {
 //  1. Improve the Counter class in Section 5.1, “Simple Classes and Parameterless
 //    Methods,” on page 51 so that it doesn’t turn negative at Int.MaxValue.
@@ -20,7 +24,7 @@ val cntr = new Counter(Int.MaxValue -1)
       if (amt > 0.0) balance += amt
     }
     def withdraw(amt: Double): Unit ={
-      if (amt >0.0 && amt <= balance) balance -= amt
+      if (amt > 0.0 && amt <= balance) balance -= amt
     }
     def chBalance(): Double = balance
 }
@@ -63,7 +67,9 @@ val cntr = new Counter(Int.MaxValue -1)
 //  5. Make a class Student with read-write JavaBeans properties name (of type String)
 //  and id (of type Long). What methods are generated? (Use javap to check.) Can
 //  you call the JavaBeans getters and setters in Scala? Should you?
-//  class Student(val javaBeans: JavaBeans)
+  class Student(@BeanProperty val name: String, id: Long) {
+
+}
 //  6. In the Person class of Section 5.1, “Simple Classes and Parameterless Methods,”
 //  on page 51, provide a primary constructor that turns negative ages to 0.
   class Person(a: Int) {
@@ -92,10 +98,8 @@ val cntr = new Counter(Int.MaxValue -1)
 //  model year and license plate can also be specified in the constructor. If not,
 //  the model year is set to -1 and the license plate to the empty string. Which
 //  constructor are you choosing as the primary constructor? Why?
-  class Car(val manufacturer: String, val modelName: String, val modelYear: Int, var licensePlate: String = ""){
+  class Car(val manufacturer: String, val modelName: String, val modelYear: Int = -1, var licensePlate: String = ""){
   //var for license plate bc read-write prop
-
-  def this
 }
 //  9. Reimplement the class of the preceding exercise in Java, C#, or C++ (your
 //    choice). How much shorter is the Scala class?

@@ -81,7 +81,7 @@ object Recursion extends App {
     //use two acc because fib calls n-1, n-2
     //rule of thumb is that you need to have however many accumulators for each recursive call that you make
     //ie fibonacci makes 2 recursive calls each time so it needs 2 accumulators
-
+n
   }
   println(fib(8))
 }
