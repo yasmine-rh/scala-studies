@@ -18,15 +18,15 @@ class Chapter3 {
   //  1. Write a code snippet that sets a to an array of n random integers between 0
   //  (inclusive) and n (exclusive).
 
-  def randomIntArr(n: Int): Array[Int] = {
-    val a = new Array[Int](a)
-    for (i <- a.indices) {
-      a(i) = Random.nextInt(n)
-    }
-    a
-  }
-
-  randomIntArr(3)
+//  def randomIntArr(n: Int): Array[Int] = {
+//    val a: Int= new Array[Int](a)
+//    for (i <- a.indices) {
+//      a(i) = Random.nextInt(n)
+//    }
+//    a
+//  }
+//
+//  randomIntArr(3)
 
   //  2. Write a loop that swaps adjacent elements of an array of integers. For example,
   //  Array(1, 2, 3, 4, 5) becomes Array(2, 1, 4, 3, 5).
@@ -129,15 +129,15 @@ class Chapter3 {
   //   to find uses of java.util.List in the standard Java library.)
 
 
-
-  object FlavorMapEx {
-
-    import java.awt.datatransfer._
-
-    val flavors: SystemFlavorMap = SystemFlavorMap.getDefaultFlavorMap.asInstanceOf[SystemFlavorMap]
-
-    flavors.getNativesForFlavor(DataFlavor.imageFlavor).asInstanceOf[collection.mutable.Buffer]
-  }
+//
+//  object FlavorMapEx {
+//
+//    import java.awt.datatransfer._
+//
+//    val flavors: SystemFlavorMap = SystemFlavorMap.getDefaultFlavorMap.asInstanceOf[SystemFlavorMap]
+//
+//    flavors.getNativesForFlavor(DataFlavor.imageFlavor).asInstanceOf[collection.mutable.Buffer]
+//  }
 
 }
   //create a variable of type SystemFlavorMap

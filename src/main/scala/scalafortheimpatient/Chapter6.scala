@@ -36,7 +36,6 @@ object Conversions extends UnitConversions {
 //  4. Define a Point class with a companion object so that you can construct Point
 //    instances as Point(3, 4), without using new.
   class Point (x: Int, y: Int){
-
 }
   object Point {
     def apply(x: Int, y: Int) = new Point(x,y)
@@ -45,17 +44,24 @@ object Conversions extends UnitConversions {
 //  5. Write a Scala application, using the App trait, that prints the command-line
 //  arguments in reverse order, separated by spaces. For example, scala Reverse
 //    Hello World should print World Hello.
-  class ScalaApplication(args:Array[String]){
-
+class ScalaApplication(args: String){
 }
   object ScalaApplication extends App {
-    override def main(args: Array[String]): Unit = ???
+    def reversing(args: String): Unit = {
+      val newStr = new ScalaApplication(args)
+      println(newStr.toString.reverse)
+    }
 
 
-}
+  }
 
 //  6. Write an enumeration describing the four playing card suits so that the toString
 //    method returns ♣, ♦, ♥, or ♠.
+object PlayingCards extends Enumeration {
+  val ♣, ♦, ♥,♠ = values
+
+}
+
 //  7. Implement a function that checks whether a card suit value from the preceding
 //    exercise is red.
 //  8. Write an enumeration describing the eight corners of the RGB color cube. As

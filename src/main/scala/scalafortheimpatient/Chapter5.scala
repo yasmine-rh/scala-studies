@@ -88,9 +88,9 @@ val cntr = new Counter(Int.MaxValue -1)
   val surname = parts(1)
 }
   //fullName should be a plain parameter because it's not used in a method or as an accessor
-  val yasmine = new PersonII("Yasmine Mahmoud")
-  yasmine.firstName
-  yasmine.surname
+//  val yasmine = new PersonII("Yasmine Mahmoud")
+//  yasmine.firstName
+//  yasmine.surname
 
 //  8. Make a class Car with read-only properties for manufacturer, model name,
 //  and model year, and a read-write property for the license plate. Supply four
