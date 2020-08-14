@@ -1,6 +1,6 @@
 package scalafortheimpatient
 
-class Chapter6 {
+class Chapter6 {}
 //  1. Write an object Conversions with methods inchesToCentimeters, gallonsToLiters, and
 //  milesToKilometers.
  class UnitConversions{
@@ -28,6 +28,10 @@ object Conversions extends UnitConversions {
 //  2. The preceding problem wasn’t very object-oriented. Provide a general superclass UnitConversion and define objects
 //  InchesToCentimeters, GallonsToLiters, and MilesToKilometers that extend it.
 
+  class UnitConversions2(
+
+  )
+
 //  3. Define an Origin object that extends java.awt.Point. Why is this not actually a
 //    good idea? (Have a close look at the methods of the Point class.)
   object Origin extends java.awt.Point {
@@ -40,7 +44,7 @@ object Conversions extends UnitConversions {
   object Point {
     def apply(x: Int, y: Int) = new Point(x,y)
   }
-  val plot1 = Point(1,3)
+//  val plot1 = new Point(1,3)
 //  5. Write a Scala application, using the App trait, that prints the command-line
 //  arguments in reverse order, separated by spaces. For example, scala Reverse
 //    Hello World should print World Hello.
@@ -51,19 +55,26 @@ class ScalaApplication(args: String){
       val newStr = new ScalaApplication(args)
       println(newStr.toString.reverse)
     }
-
-
   }
 
 //  6. Write an enumeration describing the four playing card suits so that the toString
 //    method returns ♣, ♦, ♥, or ♠.
 object PlayingCards extends Enumeration {
-  val ♣, ♦, ♥,♠ = values
-
+  val clover = Value("♣")
+  val diamond = Value("♦")
+  val heart = Value("♥")
+  val spade = Value("♠")
 }
 
 //  7. Implement a function that checks whether a card suit value from the preceding
 //    exercise is red.
+object CheckCards {
+  def isItRed(card: PlayingCards.Value): Boolean = {
+    card == PlayingCards.diamond || card == PlayingCards.heart
+  }
+}
 //  8. Write an enumeration describing the eight corners of the RGB color cube. As
 //  IDs, use the color values (for example, 0xff0000 for Red).
-}
+
+object Corners
+
