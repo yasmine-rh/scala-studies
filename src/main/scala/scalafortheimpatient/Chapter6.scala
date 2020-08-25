@@ -30,7 +30,7 @@ object Conversions extends UnitConversions {
 }
 //  2. The preceding problem wasn’t very object-oriented. Provide a general superclass UnitConversion and define objects
 //  InchesToCentimeters, GallonsToLiters, and MilesToKilometers that extend it.
-
+// see above
 //  3. Define an Origin object that extends java.awt.Point. Why is this not actually a
 //    good idea? (Have a close look at the methods of the Point class.)
   object Origin extends java.awt.Point {
