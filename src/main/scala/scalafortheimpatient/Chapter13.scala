@@ -147,7 +147,7 @@ def indices(str: String): mutable.Map[Char, mutable.SortedSet[Int]] = {
     val frequencies = new scala.collection.mutable.HashMap[Char, Int]
 //    for (c <- str.par) frequencies(c) = frequencies.getOrElse(c, 0) + 1
 
-val res = frequencies.par.aggregate((0,0))(frequencies, res) =>()
+//val res = frequencies.par.aggregate((0,0))(frequencies, res) =>()
 
 
 
